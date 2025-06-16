@@ -16,3 +16,5 @@ The case study has been presented in the paper "Improving Cybercrime Detection a
 
 "white.png" is the base image downloaded from the web "" given in input to the scripts to encode the string
 
+"stego_LLM-name.pdf" is the exported chat with the LLM-name (i.e. copilot, gemini, gpt)
+
