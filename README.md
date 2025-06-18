@@ -18,3 +18,5 @@ The case study has been presented in the paper "Improving Cybercrime Detection a
 
 "stego_LLM-name.pdf" is the exported chat with the LLM-name (i.e. copilot, gemini, gpt)
 
+"Improving Cybercrime Detections and Digital Forensics Investigations with Artificial Intelligence" is the presentation at APWG Tech Summit and Researchers Forum 2025 Cagliari.
+
